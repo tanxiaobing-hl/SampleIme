@@ -1,0 +1,60 @@
+﻿  TipCandidateString.cpp
+  TipCandidateList.cpp
+  ThreadMgrEventSink.cpp
+  ThreadFocusSink.cpp
+  TfTextLayoutSink.cpp
+  TfInputProcessorProfile.cpp
+  TextEditSink.cpp
+  SampleIME.cpp
+  TableDictionaryEngine.cpp
+  StartComposition.cpp
+  ShadowWindow.cpp
+  Server.cpp
+  ScrollBarWindow.cpp
+  RegKey.cpp
+  Register.cpp
+  LanguageBar.cpp
+  KeyHandlerEditSession.cpp
+  KeyHandler.cpp
+  KeyEventSink.cpp
+  Globals.cpp
+  Generating Code...
+  Compiling...
+  GetTextExtentEditSession.cpp
+  FunctionProviderSink.cpp
+  FileMapping.cpp
+  File.cpp
+  EnumDisplayAttributeInfo.cpp
+  EndComposition.cpp
+  EditSession.cpp
+  DllMain.cpp
+  DisplayAttributeProvider.cpp
+  DisplayAttributeInfo.cpp
+  DisplayAttribute.cpp
+  DictionarySearch.cpp
+  DictionaryParser.cpp
+  SearchCandidateProvider.cpp
+  SampleIMEBaseStructure.cpp
+  KeyStateCategory.cpp
+  EnumTfCandidates.cpp
+  CompositionProcessorEngine.cpp
+c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(878): error C2220: warning treated as error - no 'object' file generated
+c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(878): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+  c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(878): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(879): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+  c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(879): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(880): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+  c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(880): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(881): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+  c:\users\shisj\input method editor (ime) sample\c++\sampleime\compositionprocessorengine.cpp(881): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+  Composition.cpp
+  Compartment.cpp
+  Generating Code...
+  Compiling...
+  CandidateWindow.cpp
+  CandidateListUIPresenter.cpp
+  ButtonWindow.cpp
+  BaseWindow.cpp
+  BaseDictionaryEngine.cpp
+  ActiveLanguageProfileNotifySink.cpp
+  Generating Code...

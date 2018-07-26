@@ -102,7 +102,9 @@ HRESULT CSampleIME::_HandleCandidateWorker(TfEditCookie ec, _In_ ITfContext *pCo
 
     candidateString.Set(pCandidateString, candidateLen);
 
-    BOOL fMakePhraseFromText = _pCompositionProcessorEngine->IsMakePhraseFromText();
+	/*
+	
+	BOOL fMakePhraseFromText = _pCompositionProcessorEngine->IsMakePhraseFromText();
     if (fMakePhraseFromText)
     {
         _pCompositionProcessorEngine->GetCandidateStringInConverted(candidateString, &candidatePhraseList);
@@ -180,6 +182,12 @@ HRESULT CSampleIME::_HandleCandidateWorker(TfEditCookie ec, _In_ ITfContext *pCo
         }
     }
     else
+	
+	
+	
+	*/
+
+    
     {
         hrReturn = _HandleCandidateFinalize(ec, pContext);
     }

@@ -853,7 +853,7 @@ DWORD CCandidateWindow::_GetSelectedCandidateString(_Outptr_result_maybenull_ co
     {
         *ppwchCandidateString = pItemList->_ItemString.Get();
     }
-    return (DWORD)pItemList->_ItemString.GetLength();
+    return (DWORD)1;
 }
 
 //+---------------------------------------------------------------------------

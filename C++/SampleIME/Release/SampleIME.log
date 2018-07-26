@@ -1,0 +1,14 @@
+﻿  CompositionProcessorEngine.cpp
+CompositionProcessorEngine.cpp(878): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+CompositionProcessorEngine.cpp(879): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+CompositionProcessorEngine.cpp(880): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+CompositionProcessorEngine.cpp(881): warning C4463: overflow; assigning 1 to bit-field that can only hold values from -1 to 0
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\shisj\Input Method Editor (IME) sample\C++\Release\SampleIME.lib and object C:\Users\shisj\Input Method Editor (IME) sample\C++\Release\SampleIME.exp
+  Generating code
+  1 of 1714 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SampleIME.vcxproj -> C:\Users\shisj\Input Method Editor (IME) sample\C++\Release\SampleIME.dll
+  SampleIME.vcxproj -> C:\Users\shisj\Input Method Editor (IME) sample\C++\Release\SampleIME.pdb (Full PDB)

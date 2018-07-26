@@ -1,0 +1,10 @@
+﻿  CompositionProcessorEngine.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\shisj\Input Method Editor (IME) sample\C++\x64\Release\SampleIME.lib and object C:\Users\shisj\Input Method Editor (IME) sample\C++\x64\Release\SampleIME.exp
+  Generating code
+  1 of 1714 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SampleIME.vcxproj -> C:\Users\shisj\Input Method Editor (IME) sample\C++\x64\Release\SampleIME.dll
+  SampleIME.vcxproj -> C:\Users\shisj\Input Method Editor (IME) sample\C++\x64\Release\SampleIME.pdb (Full PDB)
